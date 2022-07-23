@@ -1,0 +1,1 @@
+# sensor_de_umidade_do_ar_caseiro_sem_dependencia_barometrica
